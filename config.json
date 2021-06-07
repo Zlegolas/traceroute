@@ -1,0 +1,7 @@
+{
+    "HOST": "2001:da8:270:2020:f816:3eff:fe78:6cb2",
+    "PORT": "5000",
+    "DATA_VERSION": "1.0",
+    "QUEUE_MAXSIZE": "50",
+    "MAX_RETRY": "5"
+}
