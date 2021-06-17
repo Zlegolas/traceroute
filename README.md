@@ -18,6 +18,6 @@ Windows版本
 
 ![Snipaste_2021-06-16_15-57-03](https://user-images.githubusercontent.com/32036515/122180996-845fa900-cebb-11eb-9c9a-f4d3d60fba45.png)
 
-注：出现闪退，一般是杀毒程序将文件部分删除，需重新下载，若仍出现，按如下操作：
+注：出现闪退，一般是无IPv6地址。
 
-所在文件夹的位置，按着shift，右键打开powershell，把exe程序拖进去，enter一下，看下运行情况，并截图反馈
+注：其他情况，在所在文件夹的位置，按着shift，右键打开powershell，把exe程序拖进去，enter一下，看下运行情况，并截图反馈
